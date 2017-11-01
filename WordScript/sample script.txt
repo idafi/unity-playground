@@ -1,0 +1,10 @@
+PHIL:
+|happy| hello ! this is a sample script for the WordScript system.
+|smug| as you saw, a line break prompts for user input to scroll the page.
+
+SUSAN:
+|happy| hello !! new speakers, as you saw, open their own Wordsbox, to communicate that the speaking actor has changed.
+|casual| as if the portrait and name change didn't already tell you, of course.
+
+PHIL:
+|neutral| portraits can be switched |smug| mid-sentence, too!
